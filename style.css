@@ -100,31 +100,9 @@ figure figcaption {
 
 .test {
    color: #454545;
-   background-color: #e6dada;
+   background-color: #e8e3e3;
    font-family: 'Fauna One', serif;
    font-size: 22px;
    text-align: center;
 }
 
-.highlight.highlighted {
-{
-    background-position: -100%;
-}
-.highlight {
-    background-image: linear-gradient(90deg,rgba(255,255,255,0) 50%,var(--text-highlight-color,#fe9) 0);
-    background-size: 200%;
-    transition: background-position .8s;
-}
-{
-    margin: 0;
-    padding: 0;
-    border: 0;
-    font: inherit;
-    vertical-align: initial;
-    text-align: center;
-}
-{
-    box-sizing: inherit;
-}
-
-}
