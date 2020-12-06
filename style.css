@@ -108,6 +108,12 @@ figure figcaption {
    margin: 0 auto;
 }
 
+.highlighted {
+   color: #454545;
+   font-family: 'Fauna One', serif;
+   font-size: 21px;
+}
+
 html, body {
     max-width: 100%;
     overflow-x: hidden;
