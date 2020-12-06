@@ -54,7 +54,7 @@ color: #f5060a;
 /* ==== ARTICLE STYLES ==== */
 
 body {
-    color: #454545;
+   color: #454545;
    font-family: 'Fauna One', serif;
    font-size: 20px;
 }
@@ -79,6 +79,16 @@ body {
   margin-left: auto;
   margin-right: auto;
   width: 100%;
+}
+
+.figcaption {
+    margin: 0 auto;
+    padding: 0 2em;
+    max-width: 800px;
+    margin-bottom: 50px;
+    line-height: 1.6em;
+   font-weight: 500;
+  font-family: 'Fauna One', serif;
 }
 
 .botao-wpp {
