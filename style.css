@@ -97,3 +97,10 @@ figure figcaption {
   padding: 1rem 2rem;
   border-radius: 3px;
 }
+
+html, body {
+  overflow-x: hidden;
+}
+body {
+  position: relative
+}
