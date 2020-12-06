@@ -108,7 +108,7 @@ figure figcaption {
    margin: 0 auto;
 }
 
-div.disabled {
-    overflow-x: hidden; //horizontal
-    overflow-y: scroll; //vertical
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
 }
