@@ -177,7 +177,7 @@ textarea {
           transform: rotate(360deg);
 }
 
-.rounded-social-buttons .fa-twitter, .fa-facebook-f, .fa-instagram {
+.rounded-social-buttons .fa-twitter, .fa-facebook-f {
   font-size: 25px;
 }
 
@@ -201,12 +201,4 @@ textarea {
   border-color: #55acee;
 }
 
-.rounded-social-buttons .social-button.instagram {
-  background: #125688;
-}
 
-.rounded-social-buttons .social-button.instagram:hover, .rounded-social-buttons .social-button.instagram:focus {
-  color: #125688;
-  background: #fefefe;
-  border-color: #125688;
-}
