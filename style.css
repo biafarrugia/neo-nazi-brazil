@@ -82,9 +82,9 @@ body {
 }
 
 
-figure figcaption {
+.figure figcaption {
   font-family: 'Fauna One', serif;
-  font-size: 14px;
+  font-size: 15px;
   padding: 1rem 0;
 }
 
