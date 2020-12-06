@@ -104,5 +104,6 @@ figure figcaption {
    font-family: 'Fauna One', serif;
    font-size: 22px;
    text-align: center;
+   max-width: 300px;
 }
 
