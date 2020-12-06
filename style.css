@@ -81,11 +81,11 @@ body {
   width: 100%;
 }
 
-.caption {
-    margin: 0 auto;
-    padding: 0 2em;
-    font-family: 'Fauna One', serif;
- font-size: 10px
+
+figure figcaption {
+  font-family: 'Fauna One', serif;
+  font-size: 12px;
+  padding: 1rem 0;
 }
 
 .botao-wpp {
