@@ -96,6 +96,7 @@ figure figcaption {
   font-weight: bold;
   padding: 1rem 2rem;
   border-radius: 3px;
+  text-align: left;
 }
 
 
@@ -147,7 +148,7 @@ textarea {
 }
 
 .rounded-social-buttons {
-  text-align: center;
+  text-align: right;
 }
 
 .rounded-social-buttons .social-button {
