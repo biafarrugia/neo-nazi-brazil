@@ -87,8 +87,9 @@ body {
     max-width: 800px;
     margin-bottom: 50px;
     line-height: 1.6em;
-   font-weight: 500;
+   font-weight: 200;
   font-family: 'Fauna One', serif;
+ font-size: 10px
 }
 
 .botao-wpp {
