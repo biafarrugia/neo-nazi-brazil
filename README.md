@@ -2,4 +2,4 @@
 <p> A data story about the neo-Nazi groups in Brazil. </p>
 
 <h2> Data </h2>
-<p> The database used for this story was reached from Freedom of Information Law (FOI) Request.
+<p> The database used for this story was collected from Freedom of Information Law (FOI) Request.
