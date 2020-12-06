@@ -148,7 +148,7 @@ textarea {
 }
 
 .rounded-social-buttons {
-  text-align: center;
+  text-align: right;
 }
 
 .rounded-social-buttons .social-button {
@@ -160,7 +160,7 @@ textarea {
   border: 0.125rem solid transparent;
   padding: 0;
   text-decoration: none;
-  text-align: right;
+  text-align: center;
   color: #fefefe;
   font-size: 1.5625rem;
   font-weight: normal;
