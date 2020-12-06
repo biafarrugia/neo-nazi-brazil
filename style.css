@@ -98,6 +98,8 @@ figure figcaption {
   border-radius: 3px;
 }
 
+
+/* ==== HIGHLIGHT PHRASE ==== */
 .contrast {
    color: #454545;
    background-color: #f7f7f7;
@@ -108,12 +110,16 @@ figure figcaption {
    margin: 0 auto;
 }
 
+
+/* ==== HIGHLIGHT WORD ==== */
 .highlighted {
    color: #454545;
    font-family: 'Fauna One', serif;
    font-size: 22px;
 }
 
+
+/* ==== DISABLE THE HORIZONTAL SCROLLBAR.  ==== */
 html, body {
     max-width: 100%;
     overflow-x: hidden;
